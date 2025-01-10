@@ -9,7 +9,10 @@ Hey, I’m Anzugs! When I’m not busy with everyday stuff, I spend a lot of my 
 <a href="https://discordapp.com/users/1071072739579932785" target="_blank">
   <img align="left" alt="Discord" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/discord.svg" />
 </a>
---- <a href="https://discord.gg/drqHP9aMNb" style="display: inline-block; background-color: #7289da; color: white; padding: 12px 20px; border-radius: 5px; text-decoration: none; font-weight: bold;">SteamMines Discord</a>
+--- <a href="https://discordapp.com/users/1071072739579932785" target="_blank">
+  <img align="left" alt="Settings" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Settings_gear.svg" />
+</a>
+
 ---
 ### 💼 Coding Languages & Editors
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
