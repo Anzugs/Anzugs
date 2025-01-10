@@ -19,6 +19,8 @@ Hey, I’m Anzugs! When I’m not busy with everyday stuff, I spend a lot of my 
 <img align="left" alt="VS Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Atom" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" />
 <img align="left" alt="Discord" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/discord.svg" />
+---
+### 📊 Stats
 
-
-
+! [Anzugs' GitHub stats] (https://github-readme-stats.vercel.app/api?
+username=anzugs&show_icons=true&theme=gruvbox)
