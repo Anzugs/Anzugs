@@ -9,7 +9,10 @@ Hey, I’m Anzugs! When I’m not busy with everyday stuff, I spend a lot of my 
 <a href="https://discordapp.com/users/1071072739579932785" target="_blank">
   <img align="left" alt="Discord" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/discord.svg" />
 </a>
---- <a href="https://discordapp.com/users/1071072739579932785" target="_blank" style="font-size:30px; text-decoration:none; color:inherit;">
+--- <a href="https://discordapp.com/users/1071072739579932785" target="_blank" style="font-size:30px; text-decoration:none; outline:none;">
+  ⚙️
+</a>
+
   ⚙️
 </a>
 
