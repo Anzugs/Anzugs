@@ -3,7 +3,7 @@
 **`Digital Version (Developer/Staff)`**
 
 Hey, I’m Anzugs! When I’m not busy with everyday stuff, I spend a lot of my free time coding and working on different development projects. I also run a Minecraft server called SteamMines(.minehut.gg), where I try to create fun, unique experiences for players. 
-
+---
 
 <!-- Discord Profile Button -->
 <a href="https://discordapp.com/users/1071072739579932785" target="_blank">
