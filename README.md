@@ -10,7 +10,7 @@ Hey, I’m Anzugs! When I’m not busy with everyday stuff, I spend a lot of my 
   <img align="left" alt="Discord" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/discord.svg" />
 </a>
 
-
+.
 ---
 ### 💼 Coding Languages & Editors
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
