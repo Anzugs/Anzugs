@@ -32,3 +32,6 @@ Questions? - DM me on Discord!
 <summary><h3>🧑‍💻 My Development Journey</h3><summary>
 In the end, I just love computers and wanted to know what they can do... So I tried. From my first Hello World! in Phython to countless of hours infront of YouTube Videos I am now here. Able to code Skript, and learning more and more.
 I don´t know where, when and how I am going to use that knowladge in the future but I do know I will. I am not really good at anything, but atleast I can do *something* and well: Practise makes Perfect!
+
+property in the style block : @font-face { font-family: "SourceCodePro"; font-
+style: ExtraLight; font-weight:normal; font-display: swap }
