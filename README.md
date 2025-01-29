@@ -2,7 +2,7 @@
 
 **`Digital Version (Developer/Staff)`**
 
-Hey, I’m Anzugs! When I’m not busy with everyday stuff, I spend a lot of my free time coding and working on different development projects. I also run a Minecraft server called SteamMines(.minehut.gg), where I try to create fun, unique experiences for players. 
+Hey, I’m Anzugs! When I’m not busy with everyday stuff, I spend a lot of my free time coding and working on different development projects. I love to learn new things and improve myself.  
 
 
 <!-- Discord Profile Button -->
@@ -14,6 +14,7 @@ Hey, I’m Anzugs! When I’m not busy with everyday stuff, I spend a lot of my 
 ---
 ### 💼 Coding Languages & Editors
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> 
 <img align="left" alt="VS Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
