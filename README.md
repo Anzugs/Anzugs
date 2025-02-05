@@ -1,6 +1,6 @@
 # 👻 Anzugs
 
-**`Digital Version (Developer/Staff)`**
+**`(Developer/Moderator)`**
 
 Hey, I’m Anzugs! When I’m not busy with everyday stuff, I spend a lot of my free time coding and working on different development projects. I love to learn new things and improve myself.  
 
